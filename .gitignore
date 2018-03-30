@@ -1,0 +1,20 @@
+# python
+__pycache__
+.vscode
+
+# 画像
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.gif
+
+# データファイル
+*.csv
+*.txt
+img/*
+*zip
+
+# 学習済みモデル
+*.h5
+*.npy
